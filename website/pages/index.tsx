@@ -1,5 +1,6 @@
 import * as React from 'react';
 import * as Calc from 'shared/utils/calc';
+import 'shared/index';
 
 export default () => {
   return (
